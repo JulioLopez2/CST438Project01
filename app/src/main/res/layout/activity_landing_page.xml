@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="290dp"
-        android:text="User Profile"
+        android:text="User Profile Page"
         />
 
     <androidx.recyclerview.widget.RecyclerView
